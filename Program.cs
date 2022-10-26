@@ -24,5 +24,5 @@ stringList.AddElement("second");
 
 MyList<int> intList = new MyList<int>();
 intList.AddElement(0);
-intList.AddElement("two");
+//intList.AddElement("two");
 
